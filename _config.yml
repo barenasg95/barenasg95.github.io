@@ -1,0 +1,14 @@
+title: Benjamin Arenas G.
+description: Academic website and blog
+baseurl: "" 
+url: "https://barenasg95.github.io"
+
+author:
+  name: Benjamin Arenas G.
+  email: barenasg.95@gmail.com
+  orcid: https://orcid.org/0009-0004-2851-8335
+  scholar: 
+  github: "https://github.com/barenasg95"
+
+markdown: kramdown
+theme: minima
