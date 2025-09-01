@@ -7,7 +7,7 @@ title: Home
 
 # Welcome!
 
-Hi, I’m Benjmin Arenas G.  
+Hi, I’m Benjamin Arenas G.  
 I’m a researcher in behavior, ecology and evolution among different species of ants.  
 In this site you'll see a mix of my academic carrier and a blog where I share updates.
 
